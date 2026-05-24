@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-23T04:45:29Z",
+            "last_commit": "2026-05-24T04:37:17Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 5932
@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-23T04:45:29Z",
+            "last_commit": "2026-05-24T04:37:17Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 5932
@@ -254,7 +254,7 @@
             "last_commit": "2026-01-13T10:37:27Z",
             "owner": "mdn",
             "repo": "web-components-examples",
-            "stars": 3363
+            "stars": 3362
           }
         }
       ],
@@ -322,7 +322,7 @@
             "last_commit": "2026-04-19T13:29:13Z",
             "owner": "css-doodle",
             "repo": "css-doodle",
-            "stars": 6011
+            "stars": 6012
           }
         },
         {
@@ -332,10 +332,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T22:56:51Z",
+            "last_commit": "2026-05-23T07:21:13Z",
             "owner": "GoogleChromeLabs",
             "repo": "dark-mode-toggle",
-            "stars": 1220
+            "stars": 1221
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-05-22T14:50:42Z",
             "owner": "OvidijusParsiunas",
             "repo": "deep-chat",
-            "stars": 3615
+            "stars": 3617
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-05-22T17:54:23Z",
             "owner": "google",
             "repo": "model-viewer",
-            "stars": 8081
+            "stars": 8083
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2023-02-28T22:38:55Z",
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1378
+            "stars": 1377
           }
         },
         {
@@ -566,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-16T05:55:47Z",
+            "last_commit": "2026-05-23T14:32:12Z",
             "owner": "basecamp",
             "repo": "trix",
-            "stars": 19943
+            "stars": 19944
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2026-05-02T14:09:38Z",
             "owner": "AgnosticUI",
             "repo": "agnosticui",
-            "stars": 808
+            "stars": 809
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-05-20T16:01:08Z",
             "owner": "ampproject",
             "repo": "amphtml",
-            "stars": 14902
+            "stars": 14903
           }
         },
         {
@@ -650,7 +650,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T19:11:51Z",
+            "last_commit": "2026-05-23T19:19:59Z",
             "owner": "apollo-elements",
             "repo": "apollo-elements",
             "stars": 422
@@ -871,7 +871,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-09T18:09:28Z",
+            "last_commit": "2026-05-23T12:20:16Z",
             "owner": "joomla-projects",
             "repo": "custom-elements",
             "stars": 31
@@ -900,7 +900,7 @@
             "last_commit": "2025-10-22T16:12:07Z",
             "owner": "GriffinJohnston",
             "repo": "ldrs",
-            "stars": 2174
+            "stars": 2176
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-05-05T00:23:14Z",
             "owner": "lume",
             "repo": "lume",
-            "stars": 1502
+            "stars": 1503
           }
         },
         {
@@ -975,7 +975,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T22:39:17Z",
+            "last_commit": "2026-05-23T09:54:25Z",
             "owner": "stryker-mutator",
             "repo": "mutation-testing-elements",
             "stars": 27
@@ -1001,7 +1001,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-23T01:05:47Z",
+            "last_commit": "2026-05-24T01:10:53Z",
             "owner": "nuxeo",
             "repo": "nuxeo-elements",
             "stars": 29
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-05-20T21:51:27Z",
             "owner": "LeavittSoftware",
             "repo": "titanium-elements",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -1170,7 +1170,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-22T14:41:53Z",
+            "last_commit": "2026-05-23T10:16:08Z",
             "owner": "vaadin",
             "repo": "web-components",
             "stars": 564
@@ -1225,7 +1225,7 @@
             "last_commit": "2023-10-07T20:59:18Z",
             "owner": "rough-stuff",
             "repo": "wired-elements",
-            "stars": 10787
+            "stars": 10785
           }
         },
         {
@@ -1295,7 +1295,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T02:37:51Z",
+            "last_commit": "2026-05-23T22:31:17Z",
             "owner": "Esri",
             "repo": "calcite-design-system",
             "stars": 363
@@ -1347,10 +1347,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T00:29:31Z",
+            "last_commit": "2026-05-24T04:35:37Z",
             "owner": "microsoft",
             "repo": "fast",
-            "stars": 9649
+            "stars": 9650
           }
         },
         {
@@ -1360,10 +1360,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T17:13:12Z",
+            "last_commit": "2026-05-23T10:32:01Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20020
+            "stars": 20021
           }
         },
         {
@@ -1425,7 +1425,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T05:24:54Z",
+            "last_commit": "2026-05-23T08:29:37Z",
             "owner": "sbb-design-systems",
             "repo": "lyne-components",
             "stars": 64
@@ -1438,10 +1438,10 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-05-22T17:20:07Z",
+            "last_commit": "2026-05-23T13:33:59Z",
             "owner": "material-components",
             "repo": "material-web",
-            "stars": 10970
+            "stars": 10967
           }
         },
         {
@@ -1477,6 +1477,19 @@
         },
         {
           "children": [],
+          "description": "The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.",
+          "title": "NVIDIA Elements",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T21:12:33Z",
+            "owner": "NVIDIA",
+            "repo": "elements",
+            "stars": 8
+          }
+        },
+        {
+          "children": [],
           "description": "Web component based design system starter kit.",
           "title": "OutlineJS",
           "repo_info": {
@@ -1495,7 +1508,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T19:04:36Z",
+            "last_commit": "2026-05-23T20:01:14Z",
             "owner": "patternfly",
             "repo": "patternfly-elements",
             "stars": 391
@@ -1508,7 +1521,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-18T15:42:54Z",
+            "last_commit": "2026-05-23T12:27:13Z",
             "owner": "ithaka",
             "repo": "pharos",
             "stars": 129
@@ -1521,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-21T15:49:26Z",
+            "last_commit": "2026-05-23T18:34:06Z",
             "owner": "RedHat-UX",
             "repo": "red-hat-design-system",
             "stars": 138
@@ -1537,7 +1550,7 @@
             "last_commit": "2026-05-22T14:22:53Z",
             "owner": "siemens",
             "repo": "ix",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -1560,10 +1573,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T04:57:15Z",
+            "last_commit": "2026-05-24T00:48:11Z",
             "owner": "UI5",
             "repo": "webcomponents",
-            "stars": 1747
+            "stars": 1748
           }
         },
         {
@@ -1620,10 +1633,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T00:29:31Z",
+            "last_commit": "2026-05-24T04:35:37Z",
             "owner": "microsoft",
             "repo": "fast",
-            "stars": 9649
+            "stars": 9650
           }
         },
         {
@@ -1646,7 +1659,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T13:11:46Z",
+            "last_commit": "2026-05-23T20:26:35Z",
             "owner": "joist-framework",
             "repo": "joist",
             "stars": 134
@@ -1693,7 +1706,7 @@
             "last_commit": "2026-03-27T02:54:28Z",
             "owner": "Tencent",
             "repo": "omi",
-            "stars": 13261
+            "stars": 13259
           }
         },
         {
@@ -1703,7 +1716,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-19T18:49:51Z",
+            "last_commit": "2026-05-23T23:32:41Z",
             "owner": "mixpanel",
             "repo": "panel",
             "stars": 274
@@ -1742,7 +1755,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T00:58:51Z",
+            "last_commit": "2026-05-23T14:49:43Z",
             "owner": "stenciljs",
             "repo": "core",
             "stars": 13093
@@ -1829,7 +1842,7 @@
             "last_commit": "2026-05-21T11:37:36Z",
             "owner": "hybridsjs",
             "repo": "hybrids",
-            "stars": 3173
+            "stars": 3174
           }
         },
         {
@@ -1839,10 +1852,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T20:56:39Z",
+            "last_commit": "2026-05-23T11:09:38Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35562
+            "stars": 35564
           }
         }
       ],
@@ -1981,7 +1994,7 @@
             "last_commit": "2026-05-20T16:01:08Z",
             "owner": "ampproject",
             "repo": "amphtml",
-            "stars": 14902
+            "stars": 14903
           }
         },
         {
@@ -2269,7 +2282,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-23T04:45:29Z",
+            "last_commit": "2026-05-24T04:37:17Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 5932
@@ -2459,7 +2472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:45:27.834Z",
+    "last_updated": "2026-05-24T06:08:57.981Z",
     "original_repository": "web-padawan/awesome-web-components",
     "source_repository": "v1nvn/enhansome-web-components",
     "source_repository_description": null,
